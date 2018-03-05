@@ -23,8 +23,18 @@ h2 {
 }
 
 .form {
-	margin-top: 4em;
+	margin-top: 2em;
+}
+div.form {
+	padding: 10px;
 }
 .btn.btn-danger  {
+	margin-top: 5px;
 	width: 100%;
+}
+#footer {
+	min-height: 50px;
+}
+.glyphicon.glyphicon-facebook {
+	min-height: 50px;
 }
