@@ -24,6 +24,7 @@ ul.nav.nav-pills {
 a {
 	color: white;
 }
+
 /*Carousel*/
 .carousel {
 	margin-top: 50px;
@@ -47,11 +48,14 @@ label {
 .input-group {
 	margin: 30px;
 }
-
+button {
+	min-height: 46px;
+}
 /*Social Media*/
 .icon {
 	font-size: 5em;
 	margin: 5px;
+	box-shadow: 0 -5px 5px -5px white;
 }
 
 div.form {
