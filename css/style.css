@@ -1,3 +1,4 @@
+/*Navigation*/
 .tonberryNav {
 	font-family: "Meddon", cursive;
 }
@@ -17,24 +18,36 @@ ul.nav.nav-pills {
 a {
 	color: white;
 }
+/*Carousel*/
 h2 {
 	font-family: "Meddon", cursive;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
+/*Form*/
 .form {
 	margin-top: 2em;
 }
+
+/*Social Media*/
+.icon {
+	font-size: 5em;
+}
+
 div.form {
 	padding: 10px;
 }
+
 .btn.btn-danger  {
 	margin-top: 5px;
 	width: 100%;
 }
+
+/*Footer*/
 #footer {
+	text-align: center;
 	min-height: 50px;
 }
-.glyphicon.glyphicon-facebook {
-	min-height: 50px;
-}
+
+/*Social Media*/
+
