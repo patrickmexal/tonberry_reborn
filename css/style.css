@@ -1,7 +1,6 @@
 /*Wrapper*/
-/*#wrapper {
-	background-image: url("../assets/abstract.jpg");
-	background-attachment: fixed;*/
+#wrapper {
+	min-height: 1000px;
 }
 /*Navigation*/
 .tonberryNav {
