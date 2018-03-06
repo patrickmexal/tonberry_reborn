@@ -48,9 +48,7 @@ label {
 .input-group {
 	margin: 30px;
 }
-button {
-	min-height: 46px;
-}
+
 /*Social Media*/
 .icon {
 	font-size: 5em;
@@ -62,9 +60,13 @@ div.form {
 	padding: 10px;
 }
 
-.btn.btn-success  {
+.btn.btn-primary  {
 	margin-top: 5px;
 	width: 100%;
+}
+
+button {
+	min-height: 46px;
 }
 
 /*Footer*/
